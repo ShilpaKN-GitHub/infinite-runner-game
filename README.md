@@ -1,2 +1,1 @@
-# infinite-runner-game
-infinite runner game
+# Infinite-Runner-Game
